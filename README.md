@@ -1,5 +1,5 @@
 # Task1
-## Data Cleaning and Preprocessing IN Excel and Pandas
+## Data Cleaning and Preprocessing in Excel and Pandas
 
 ### : Data Cleaning and Preprocessing Summary in Excel
 
