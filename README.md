@@ -1,7 +1,7 @@
 # Task1
 ## Data Cleaning and Preprocessing IN Excel and Pandas
 
-# 1. Data Cleaning and Preprocessing Summary in Excel
+### |. Data Cleaning and Preprocessing Summary in Excel
 
 - Imported Raw Data:
 
@@ -33,7 +33,7 @@
 
    A clean, well-structured dataset with new calculated fields ready for analysis.
 
- # 2. Data Cleaning & Preprocessing Summary in Pandas
+ ### ||. Data Cleaning & Preprocessing Summary in Pandas
 
 - Loaded Data:
 
